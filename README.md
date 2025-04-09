@@ -98,7 +98,7 @@ Use Arduino Due as a 3.3V Parallel I/O Converter via USB MIDI.
 | A9      | AI9      | Send CC      | 63     |
 | A10     | AI10     | Send CC      | 64     |
 | A11     | AI11     | Send CC      | 65     |
-| DAC0    | AO0      | Receive CC   | 66     |
+| DAC2    | AO0      | Receive CC   | 66     |
 | DAC1    | AO1      | Receive CC   | 67     |
 
 ## Note
